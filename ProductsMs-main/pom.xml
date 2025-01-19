@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>jee_devoir_tp5</artifactId>
+    <artifactId>product-service-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>product-service-backend</name>
     <description>product-service-backend</description>
